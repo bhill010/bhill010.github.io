@@ -81,3 +81,13 @@ section {
   display: inline-block;
   vertical-align: top;
 }
+
+aside {
+  width: 180px;
+  margin-right: 15px;
+  display: inline-block;
+}
+
+.ingredients-list li {
+  margin: 15px 0px;
+}
