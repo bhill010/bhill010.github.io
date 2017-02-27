@@ -2,8 +2,9 @@
 
 body {
   /* If the user cannot load the Arial font, the sans-serif font is used */
-  font-family: Arial, sans-serif;
+  font-family: cursive, sans-serif;
   background-color: coral;
+  font-size: 20px;
 }
 
 h1 {
@@ -19,6 +20,8 @@ are children of an Unordered List element */
 ul li a {
   text-decoration: none;
   color: inherit;
+  font-weight: 600;
+  font-size: larger;
 }
 
 /* This selector selects all image elements that are children (1 level deep)
