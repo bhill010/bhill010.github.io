@@ -3,7 +3,7 @@
 body {
   /* If the user cannot load the Arial font, the sans-serif font is used */
   font-family: cursive, sans-serif;
-  background-color: blue;
+  background-color: coral;
   font-size: 20px;
 }
 
